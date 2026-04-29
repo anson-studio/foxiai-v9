@@ -1,0 +1,9 @@
+{
+  "name": "foxiai",
+  "version": "1.0.0",
+  "description": "FoxiAI - 商业视觉创作平台",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
